@@ -2,143 +2,143 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Main cleaner: Ema\, Secondary cleaner: Matilde\, Oven cleaner: Mirei
-DTEND:20250621T235900Z
-DTSTART:20250616T000000Z
+DESCRIPTION:Main cleaner: Mathias\, Secondary cleaner: Markus\, Oven cleaner: Matilde
+DTEND:20250309T235900Z
+DTSTART:20250303T000000Z
 SUMMARY:Weekly cleaning team
-UID:bf354847-94d5-4f5b-87fa-dfefd980fbb9@bf35.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Main cleaner: Sofie\, Secondary cleaner: Johanne\, Oven cleaner: Sofie
-DTEND:20250705T235900Z
-DTSTART:20250630T000000Z
-SUMMARY:Weekly cleaning team
-UID:7aa7dab7-661a-409d-8665-13ac4680445e@7aa7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Main cleaner: Anso\, Secondary cleaner: Søren\, Oven cleaner: Mathias
-DTEND:20250426T235900Z
-DTSTART:20250421T000000Z
-SUMMARY:Weekly cleaning team
-UID:22026b68-4536-4bec-9921-ad41a1acde54@2202.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Main cleaner: Asger\, Secondary cleaner: Mirei\, Oven cleaner: Andreas
-DTEND:20250517T235900Z
-DTSTART:20250512T000000Z
-SUMMARY:Weekly cleaning team
-UID:9f281d8e-b7bc-49f0-8143-24aa9083318a@9f28.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Main cleaner: Mirei\, Secondary cleaner: Asger\, Oven cleaner: Johanne
-DTEND:20250405T235900Z
-DTSTART:20250331T000000Z
-SUMMARY:Weekly cleaning team
-UID:9d1da1e9-5689-4115-800a-8350815243ca@9d1d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Main cleaner: Mathias\, Secondary cleaner: Markus\, Oven cleaner: Ema
-DTEND:20250531T235900Z
-DTSTART:20250526T000000Z
-SUMMARY:Weekly cleaning team
-UID:f731fa53-7b77-489e-b4ff-48ce49d1d384@f731.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Main cleaner: Markus\, Secondary cleaner: Mathias\, Oven cleaner: Mathias
-DTEND:20250419T235900Z
-DTSTART:20250414T000000Z
-SUMMARY:Weekly cleaning team
-UID:b07c5730-fc76-48d0-bc4d-ebe88bb04a32@b07c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Main cleaner: Malou\, Secondary cleaner: Andreas\, Oven cleaner: Søren
-DTEND:20250503T235900Z
-DTSTART:20250428T000000Z
-SUMMARY:Weekly cleaning team
-UID:9dd94aa5-0567-4caa-96cb-cfa40d7b12d3@9dd9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Main cleaner: Søren\, Secondary cleaner: Anso\, Oven cleaner: Ema
-DTEND:20250607T235900Z
-DTSTART:20250602T000000Z
-SUMMARY:Weekly cleaning team
-UID:70be8456-8cb1-4990-974b-c4b7a4e4b2ac@70be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Main cleaner: Sofie\, Secondary cleaner: Johanne\, Oven cleaner: Johanne
-DTEND:20250412T235900Z
-DTSTART:20250407T000000Z
-SUMMARY:Weekly cleaning team
-UID:33699547-6fa5-4d8a-9dd8-a2ea6fa7dd82@3369.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Main cleaner: Johanne\, Secondary cleaner: Sofie\, Oven cleaner: Andreas
-DTEND:20250524T235900Z
-DTSTART:20250519T000000Z
-SUMMARY:Weekly cleaning team
-UID:379d40f9-f593-4e4d-84c8-3e45368a9a08@379d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Main cleaner: Søren\, Secondary cleaner: Anso\, Oven cleaner: Matilde
-DTEND:20250315T235900Z
-DTSTART:20250310T000000Z
-SUMMARY:Weekly cleaning team
-UID:6b542502-f5fa-42e9-9899-c593a5911561@6b54.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Main cleaner: Matilde\, Secondary cleaner: Ema\, Oven cleaner: Søren
-DTEND:20250510T235900Z
-DTSTART:20250505T000000Z
-SUMMARY:Weekly cleaning team
-UID:1c3e8988-67d9-430b-b23a-4a7400edde80@1c3e.org
+UID:d5e7dce5-be69-4bd0-8927-9fb1450f1eff@d5e7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Main cleaner: Ema\, Secondary cleaner: Matilde\, Oven cleaner: Asger
-DTEND:20250329T235900Z
+DTEND:20250330T235900Z
 DTSTART:20250324T000000Z
 SUMMARY:Weekly cleaning team
-UID:e456bf0a-2683-4b47-9520-f18891179082@e456.org
+UID:8010c823-1af7-43e6-9854-07cf723c37bc@8010.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Main cleaner: Mirei\, Secondary cleaner: Asger\, Oven cleaner: Sofie
-DTEND:20250628T235900Z
+DTEND:20250629T235900Z
 DTSTART:20250623T000000Z
 SUMMARY:Weekly cleaning team
-UID:3f935cb2-5163-4535-89d9-4b329e8e66a3@3f93.org
+UID:e0a9dac6-9bbd-49df-ac68-3790056967ea@e0a9.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Main cleaner: Andreas\, Secondary cleaner: Malou\, Oven cleaner: Asger
-DTEND:20250322T235900Z
-DTSTART:20250317T000000Z
+DESCRIPTION:Main cleaner: Mirei\, Secondary cleaner: Asger\, Oven cleaner: Johanne
+DTEND:20250406T235900Z
+DTSTART:20250331T000000Z
 SUMMARY:Weekly cleaning team
-UID:1088fa23-5d90-463e-8529-b85c4fa45748@1088.org
+UID:2280e66b-9693-42ef-a816-879dbefdaf10@2280.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Main cleaner: Mathias\, Secondary cleaner: Markus\, Oven cleaner: Matilde
-DTEND:20250308T235900Z
-DTSTART:20250303T000000Z
+DESCRIPTION:Main cleaner: Anso\, Secondary cleaner: Søren\, Oven cleaner: Mathias
+DTEND:20250427T235900Z
+DTSTART:20250421T000000Z
 SUMMARY:Weekly cleaning team
-UID:539a8d7e-22ca-43fd-8ce1-a7823dc2446a@539a.org
+UID:e0674c1f-1b52-446b-951a-77f1496fc2c0@e067.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Main cleaner: Anso\, Secondary cleaner: Søren\, Oven cleaner: Markus
-DTEND:20250719T235900Z
-DTSTART:20250714T000000Z
+DESCRIPTION:Main cleaner: Sofie\, Secondary cleaner: Johanne\, Oven cleaner: Johanne
+DTEND:20250413T235900Z
+DTSTART:20250407T000000Z
 SUMMARY:Weekly cleaning team
-UID:3c7cd109-e99c-4d3a-9fda-c6af8c3bca69@3c7c.org
+UID:32cb02bc-fd50-4443-9728-ac8bcd23c381@32cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Main cleaner: Markus\, Secondary cleaner: Mathias\, Oven cleaner: Mathias
+DTEND:20250420T235900Z
+DTSTART:20250414T000000Z
+SUMMARY:Weekly cleaning team
+UID:95bff068-848d-406c-8e41-416b7499927b@95bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Main cleaner: Asger\, Secondary cleaner: Mirei\, Oven cleaner: Andreas
+DTEND:20250518T235900Z
+DTSTART:20250512T000000Z
+SUMMARY:Weekly cleaning team
+UID:74a10473-1ec0-41b5-adf4-fcbb9a10d50e@74a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Main cleaner: Søren\, Secondary cleaner: Anso\, Oven cleaner: Matilde
+DTEND:20250316T235900Z
+DTSTART:20250310T000000Z
+SUMMARY:Weekly cleaning team
+UID:8f79d3e1-234a-4e16-ac69-4d0cec344597@8f79.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Main cleaner: Markus\, Secondary cleaner: Mathias\, Oven cleaner: Markus
-DTEND:20250712T235900Z
+DTEND:20250713T235900Z
 DTSTART:20250707T000000Z
 SUMMARY:Weekly cleaning team
-UID:58234053-2681-44ee-bc33-3da841e33363@5823.org
+UID:0ad1ad32-30a1-42d0-b68e-3f4958578f9f@0ad1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Main cleaner: Malou\, Secondary cleaner: Andreas\, Oven cleaner: Søren
+DTEND:20250504T235900Z
+DTSTART:20250428T000000Z
+SUMMARY:Weekly cleaning team
+UID:1fbc512c-fa33-4449-b698-695b4c509f9f@1fbc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Main cleaner: Andreas\, Secondary cleaner: Malou\, Oven cleaner: Mirei
-DTEND:20250614T235900Z
+DTEND:20250615T235900Z
 DTSTART:20250609T000000Z
 SUMMARY:Weekly cleaning team
-UID:40575a8f-fb5d-4e95-9c21-76db0c1061b7@4057.org
+UID:15d287b7-2d62-45ea-9e07-27a971d9294b@15d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Main cleaner: Søren\, Secondary cleaner: Anso\, Oven cleaner: Ema
+DTEND:20250608T235900Z
+DTSTART:20250602T000000Z
+SUMMARY:Weekly cleaning team
+UID:98c747be-e19b-4203-a6ad-344ec6c2be38@98c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Main cleaner: Anso\, Secondary cleaner: Søren\, Oven cleaner: Markus
+DTEND:20250720T235900Z
+DTSTART:20250714T000000Z
+SUMMARY:Weekly cleaning team
+UID:4ac7a22c-b33d-4266-8348-db4112c33a96@4ac7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Main cleaner: Ema\, Secondary cleaner: Matilde\, Oven cleaner: Mirei
+DTEND:20250622T235900Z
+DTSTART:20250616T000000Z
+SUMMARY:Weekly cleaning team
+UID:9c6ea261-58a3-4f05-bfd7-3cd3e2da7aa1@9c6e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Main cleaner: Mathias\, Secondary cleaner: Markus\, Oven cleaner: Ema
+DTEND:20250601T235900Z
+DTSTART:20250526T000000Z
+SUMMARY:Weekly cleaning team
+UID:08f965ea-2c31-4ac3-a526-1437e8b9289d@08f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Main cleaner: Johanne\, Secondary cleaner: Sofie\, Oven cleaner: Andreas
+DTEND:20250525T235900Z
+DTSTART:20250519T000000Z
+SUMMARY:Weekly cleaning team
+UID:1ccd185e-6558-410f-b51e-6c1a12c51eda@1ccd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Main cleaner: Sofie\, Secondary cleaner: Johanne\, Oven cleaner: Sofie
+DTEND:20250706T235900Z
+DTSTART:20250630T000000Z
+SUMMARY:Weekly cleaning team
+UID:3e784d06-9c10-469a-9edb-27e497d5c73a@3e78.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Main cleaner: Matilde\, Secondary cleaner: Ema\, Oven cleaner: Søren
+DTEND:20250511T235900Z
+DTSTART:20250505T000000Z
+SUMMARY:Weekly cleaning team
+UID:da15c34a-d578-4738-8727-1c59a24e73a6@da15.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Main cleaner: Andreas\, Secondary cleaner: Malou\, Oven cleaner: Asger
+DTEND:20250323T235900Z
+DTSTART:20250317T000000Z
+SUMMARY:Weekly cleaning team
+UID:01bae7bc-bca3-4557-a463-8b218443f10b@01ba.org
 END:VEVENT
 END:VCALENDAR
